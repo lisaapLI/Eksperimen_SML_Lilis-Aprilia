@@ -22,4 +22,4 @@ jobs:
           pip install pandas numpy scikit-learn
 
       - name: Run Preprocessing Script
-        run: python preprocessing/automate_Lilis.py
+        run: python preprocessing/automate_lilis.py
